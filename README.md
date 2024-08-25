@@ -2,7 +2,7 @@
 
 <img src="assets/BitwisePuzzle.png" width="600">
 
-Converted functions with restrictions on operators like +, -, *, or /. This challenged me to convert binary numbers to decimal numbers using different strategies. Including bitwise shifting, &&’ ing offset bits with numbers, and ~ bits. 
+Converted functions with restrictions on operators like +, -, *, or /. This challenged me to convert binary numbers to decimal numbers using different strategies. Including bitwise shifting, &&’ ing offset bits with numbers, and ~ bits.
 
 <img src="assets/AllFunctions.png" width="600">
 
