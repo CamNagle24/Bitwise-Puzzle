@@ -4,7 +4,10 @@ Converted functions with restrictions on operators like +, -, *, or /. This chal
 <img src="assets/BitwisePuzzle.png" width="600">
 
 ### What I Learned
-- 
+- Master bitwise operations (~, &, |, ^, <<, >>) to manipulate data at the bit level.
+- Develop efficient solutions within strict constraints (limited operations and no conditionals or loops).
+- Learn to handle floating-point numbers through bitwise manipulation without using floating-point types or operations.
+- Strengthen debugging and testing skills using automated tools like btest and dlc for verification and optimization.
 
 <img src="assets/AllFunctions.png" width="600">
 
