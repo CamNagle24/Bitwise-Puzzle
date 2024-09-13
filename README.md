@@ -13,7 +13,7 @@ Converted functions with restrictions on operators like +, -, *, or /. This chal
 
 For example:
 
-<img src="READ ME INSERT PIC OF SHIFING BITS BELOW" width="600">
+<img src="assets/BitShift.jpeg" width="600">
 
 This made it easier for project 3 when we converted those functions into assembly code and we had to shift numbers in specific registers to complete tasks.
 
